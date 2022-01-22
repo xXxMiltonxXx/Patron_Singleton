@@ -1,0 +1,10 @@
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\bin\Debug\Singleton.console.exe.config
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\bin\Debug\Singleton.console.exe
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\bin\Debug\Singleton.console.pdb
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\bin\Debug\Singleton.dll
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\bin\Debug\Singleton.pdb
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\obj\Debug\Singleton.console.csproj.AssemblyReference.cache
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\obj\Debug\Singleton.console.csproj.CoreCompileInputs.cache
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\obj\Debug\Singleton.console.csproj.CopyComplete
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\obj\Debug\Singleton.console.exe
+D:\Personal\Escritorio\Prueba\Singleton\Singleton.console\obj\Debug\Singleton.console.pdb

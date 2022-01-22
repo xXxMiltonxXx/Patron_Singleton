@@ -1,0 +1,6 @@
+D:\Personal\Escritorio\Prueba\Singleton\Singleton\bin\Debug\Singleton.dll
+D:\Personal\Escritorio\Prueba\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Personal\Escritorio\Prueba\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\Personal\Escritorio\Prueba\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Personal\Escritorio\Prueba\Singleton\Singleton\obj\Debug\Singleton.dll
+D:\Personal\Escritorio\Prueba\Singleton\Singleton\obj\Debug\Singleton.pdb
